@@ -1,0 +1,12 @@
+2024-11-30 22:11:16 - INFO - File path: /logs
+2024-11-30 22:11:16 - ERROR - File path /logs does not exist.
+2024-11-30 22:11:33 - INFO - File path: logs
+2024-11-30 22:11:39 - INFO - Copying logs to asf/34
+2024-11-30 22:15:47 - INFO - File path: /home/arin/bootcamp/SKP/BRS/logs
+2024-11-30 22:15:50 - INFO - Copying logs to skdfl
+2024-11-30 22:19:08 - INFO - File path: home/arin/bootcamp/SKP/BRS/logs
+2024-11-30 22:19:08 - ERROR - File path home/arin/bootcamp/SKP/BRS/logs does not exist.
+2024-11-30 22:19:41 - INFO - File path: home/arin/bootcamp/SKP/BRS/logs
+2024-11-30 22:19:41 - ERROR - File path home/arin/bootcamp/SKP/BRS/logs does not exist.
+2024-11-30 22:20:18 - INFO - File path: /home/arinotcamp/SKP/BRS/logs
+2024-11-30 22:20:38 - INFO - Copying /home/arinotcamp/SKP/BRS/logs to /home/arin/bootcamp/SKP/BRS

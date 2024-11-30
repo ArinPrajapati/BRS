@@ -1,0 +1,51 @@
+2024-11-30 22:45:03 - INFO - File path: /home/airn/test/file1
+2024-11-30 22:45:15 - INFO - Backup path: /home/arin/test
+2024-11-30 22:45:16 - INFO - Copying /home/airn/test/file1 to /home/arin/test
+2024-11-30 22:45:16 - INFO - File /home/airn/test/file1 has been copied to /home/arin/test
+2024-11-30 22:48:42 - INFO - File path: /home/arin/test/file1
+2024-11-30 22:48:47 - INFO - Backup path: home/arin/test
+2024-11-30 22:48:47 - ERROR - Backup path home/arin/test does not exist.
+2024-11-30 22:49:04 - INFO - File path: /home/arin/test/file1
+2024-11-30 22:49:14 - INFO - Backup path: /home/arin/test
+2024-11-30 22:49:14 - INFO - Copying /home/arin/test/file1 to /home/arin/test
+2024-11-30 22:49:14 - ERROR - Failed to backup /home/arin/test/file1 to /home/arin/test
+2024-11-30 22:51:41 - INFO - File path: /home/arin/test/file1
+2024-11-30 22:51:46 - INFO - Backup path: /home/airn/test
+2024-11-30 22:51:46 - INFO - Copying /home/arin/test/file1 to /home/airn/test
+2024-11-30 22:51:46 - ERROR - Failed to backup /home/arin/test/file1 to /home/airn/test
+2024-11-30 22:53:20 - INFO - File path: /home/ariownload/test/file1
+2024-11-30 22:53:20 - ERROR - File /home/ariownload/test/file1 does not exist.
+2024-11-30 22:53:40 - INFO - File path: /home/arin/Downloads/test/file1
+2024-11-30 22:53:50 - INFO - Backup path: /home/airn/Downloads/test
+2024-11-30 22:53:50 - INFO - Copying /home/arin/Downloads/test/file1 to /home/airn/Downloads/test
+2024-11-30 22:53:50 - ERROR - Failed to backup /home/arin/Downloads/test/file1 to /home/airn/Downloads/test
+2024-11-30 22:54:58 - INFO - File path: /home/arin/Download/test/file1
+2024-11-30 22:54:58 - ERROR - File /home/arin/Download/test/file1 does not exist.
+2024-11-30 22:55:01 - INFO - File path: /home/arin/Download/test/file1
+2024-11-30 22:55:01 - ERROR - File /home/arin/Download/test/file1 does not exist.
+2024-11-30 22:55:25 - INFO - File path: /home/arin/Download/test/file1
+2024-11-30 22:55:25 - ERROR - File /home/arin/Download/test/file1 does not exist.
+2024-11-30 22:55:28 - INFO - File path: /home/arin/Download/test/file1
+2024-11-30 22:55:28 - ERROR - File /home/arin/Download/test/file1 does not exist.
+2024-11-30 22:55:32 - INFO - File path: /home/arin/Download/test/file1
+2024-11-30 22:55:32 - ERROR - File /home/arin/Download/test/file1 does not exist.
+2024-11-30 22:56:13 - INFO - File path: /home/arin/Downloads/test/file1
+2024-11-30 22:56:14 - INFO - Backup path: 
+2024-11-30 22:56:14 - ERROR - Backup path  does not exist.
+2024-11-30 22:56:29 - INFO - File path: /home/arin/Downloads/test/file1
+2024-11-30 22:56:29 - INFO - Backup path: 
+2024-11-30 22:56:29 - ERROR - Backup path  does not exist.
+2024-11-30 22:56:35 - INFO - File path: /home/arin/Downloads/test/file1
+2024-11-30 22:56:36 - INFO - Backup path: 
+2024-11-30 22:56:36 - ERROR - Backup path  does not exist.
+2024-11-30 22:57:08 - INFO - File path: /home/arin/Downloads/test/file1
+2024-11-30 22:57:09 - INFO - Backup path: 
+2024-11-30 22:57:09 - ERROR - Backup path  does not exist.
+2024-11-30 22:57:23 - INFO - File path: /home/arin/Downloads/test/file1
+2024-11-30 22:57:23 - INFO - Backup path: /home/arin/Downloads/test
+2024-11-30 22:57:23 - INFO - Copying /home/arin/Downloads/test/file1 to /home/arin/Downloads/test
+2024-11-30 22:57:23 - ERROR - Failed to backup /home/arin/Downloads/test/file1 to /home/arin/Downloads/test
+2024-11-30 23:12:14 - INFO - File path: /home/arin/Downloads/test/file1
+2024-11-30 23:12:15 - INFO - Backup path: /home/arin/Downloads/test
+2024-11-30 23:12:15 - INFO - Copying /home/arin/Downloads/test/file1 to /home/arin/Downloads/test
+2024-11-30 23:12:15 - INFO - File /home/arin/Downloads/test/file1 has been backed up to /home/arin/Downloads/test
